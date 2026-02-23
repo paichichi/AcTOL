@@ -22,7 +22,7 @@ setup(
         'timm==0.9.12',
         'mmengine',
         'tqdm',
-        'numpy',
+        'numpy==1.26.4',
         'tensorboardX',
         'gdown',
         'openai-clip',
