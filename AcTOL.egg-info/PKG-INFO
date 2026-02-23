@@ -7,11 +7,12 @@ Requires-Dist: torchvision==0.14.1
 Requires-Dist: timm==0.9.12
 Requires-Dist: mmengine
 Requires-Dist: tqdm
-Requires-Dist: numpy
+Requires-Dist: numpy==1.26.4
 Requires-Dist: tensorboardX
 Requires-Dist: gdown
 Requires-Dist: openai-clip
 Requires-Dist: chardet
+Requires-Dist: jupyter
 Dynamic: description
 Dynamic: requires-dist
 Dynamic: summary
